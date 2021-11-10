@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SchedulePrefence</string>
+    <string name="logout">Logout</string>
+    <string name="deleteFile">Delete File</string>
+    <string name="submitFile">Submit File</string>
+    <string name="textFileInput">Text file Input</string>
+    <string name="logOutSuccess">Log Out Success</string>
+</resources>
